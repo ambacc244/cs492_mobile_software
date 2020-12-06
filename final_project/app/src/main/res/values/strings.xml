@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Diet</string>
+
+    <string name="action_saved">Saved Diets</string>
+
+    <string name="save">Save</string>
+    <string name="cal">Calculate</string>
+
+
+</resources>
